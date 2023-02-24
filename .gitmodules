@@ -1,0 +1,36 @@
+[submodule "device-virtual-go"]
+	path = device-virtual-go
+	url = https://github.com/edgexfoundry/device-virtual-go
+[submodule "device-mqtt-go"]
+	path = device-mqtt-go
+	url = https://github.com/edgexfoundry/device-mqtt-go
+[submodule "device-usb-camera"]
+	path = device-usb-camera
+	url = https://github.com/edgexfoundry/device-usb-camera
+[submodule "device-sdk-go"]
+	path = device-sdk-go
+	url = https://github.com/edgexfoundry/device-sdk-go
+[submodule "device-rfid-llrp-go"]
+	path = device-rfid-llrp-go
+	url = https://github.com/edgexfoundry/device-rfid-llrp-go
+[submodule "device-gpio"]
+	path = device-gpio
+	url = https://github.com/edgexfoundry/device-gpio
+[submodule "device-snmp-go"]
+	path = device-snmp-go
+	url = https://github.com/edgexfoundry/device-snmp-go
+[submodule "device-rest-go"]
+	path = device-rest-go
+	url = https://github.com/edgexfoundry/device-rest-go
+[submodule "device-onvif-camera"]
+	path = device-onvif-camera
+	url = https://github.com/edgexfoundry/device-onvif-camera
+[submodule "device-modbus-go"]
+	path = device-modbus-go
+	url = https://github.com/edgexfoundry/device-modbus-go
+[submodule "device-camera-go"]
+	path = device-camera-go
+	url = https://github.com/edgexfoundry/device-camera-go
+[submodule "device-random"]
+	path = device-random
+	url = https://github.com/edgexfoundry/device-random
