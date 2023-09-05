@@ -28,9 +28,6 @@
 [submodule "device-modbus-go"]
 	path = device-modbus-go
 	url = https://github.com/edgexfoundry/device-modbus-go
-[submodule "device-camera-go"]
-	path = device-camera-go
-	url = https://github.com/edgexfoundry/device-camera-go
 [submodule "device-random"]
 	path = device-random
 	url = https://github.com/edgexfoundry/device-random
